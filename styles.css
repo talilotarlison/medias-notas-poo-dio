@@ -1,0 +1,35 @@
+*{
+    font-family:verdana;
+  }
+  
+  div.box{
+    min-width:350px;
+    max-width:400px;
+    margin: 0 auto; 
+  }
+  h1{
+     text-align:center;
+  }
+  
+  label{
+     margin:5px;
+  }
+  input{
+    display:block;
+    padding: 10px;
+    margin:5px;
+    min-width:350px;
+    max-width:400px;
+  }
+  
+  div.botao{
+    min-width:350px;
+    max-width:370px;
+    display:flex;
+    justify-content:space-between;
+  }
+  
+  button{
+    margin:10px 15px;
+    padding: 10px
+  }
